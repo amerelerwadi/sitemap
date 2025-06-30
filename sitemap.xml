@@ -138,5 +138,14 @@
   <priority>0.64</priority>
 </url>
 
+<!-- Weitere URLs deiner Homepage ... -->
+
+  <!-- GitHub Pages filme.html -->
+<url>
+  <loc>https://amerelerwadi.github.io/sitemap/filme.html</loc>
+  <lastmod>2025-06-30</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.8</priority>
+</url>
 
 </urlset>
